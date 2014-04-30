@@ -49,6 +49,10 @@ Append the last 3 animals to #second div
 
 Step 2: Change 'Furbook Dashboard' to say your name by hooking it up to the text input and button
 
+add an animation to the text (i.e. fadeIn)
+
+------
+
 Step 3: Set up the Befriend button
 
 Use HTML to create a section on your page for your friendlist
@@ -58,6 +62,8 @@ When you click on the Befriend button, add that animal, with the picture to the 
 ------
 
 BONUS Section
+
+Prettify your app!
 
 Create an 'unfriend' functionality
 
